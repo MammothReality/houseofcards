@@ -1,0 +1,29 @@
+**Privacy Policy for House of Cards | Mixed Reality**
+
+This Privacy Policy outlines how "House of Cards | Mixed Reality" ("the Game") handles data and is provided by Mammoth Reality Labs ("we," "our," or "us"). By using the Game, you agree to the terms stated in this policy.
+
+**1. Data Collection**
+
+We want to be clear that we do not collect, store, or process any personal data through the Game. Your privacy is of utmost importance, and we uphold strict measures to ensure your information remains private.
+
+The Game operates within platforms like Meta Quest. These platforms might collect data, such as user interactions and device details, in accordance with their Privacy Policies. However, we do not access, utilize, or store this data in any capacity.
+
+**2. Information Usage**
+
+Given that we do not collect user data, we do not utilize or distribute any information tied to your interactions with the Game. Any data gathered by third-party platforms, such as Meta Quest, adheres to their respective privacy policies.
+
+**3. Third-Party Services**
+
+The Game may incorporate third-party services or platforms to enhance features. Please be aware that these services could have their own data collection practices. We recommend reviewing their privacy policies before integrating them with the Game.
+
+**4. Changes to this Policy**
+
+We retain the right to modify or amend this Privacy Policy as required. Any alterations will be posted on our official website and will become effective immediately upon posting.
+
+**5. Contact**
+
+Please note that we do not collect or store any personal data from users ourselves, so there is no need to contact us for data-related inquiries.
+
+**6. Acknowledgment**
+
+By using the Game, you acknowledge that this Privacy Policy only pertains to data handling within the Game. Any data collected by third-party platforms, like Meta Quest, is subject to their individual policies. For comprehensive information, we advise reviewing their privacy policies.
